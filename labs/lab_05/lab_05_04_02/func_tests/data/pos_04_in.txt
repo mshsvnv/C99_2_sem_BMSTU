@@ -1,0 +1,6 @@
+pen pilot 10 20
+pencil kohinor 50 50
+notebook maleskine 20 100
+book Aist 100 90
+book Ilf&Petrov 100 200
+pen berlingo 30 30

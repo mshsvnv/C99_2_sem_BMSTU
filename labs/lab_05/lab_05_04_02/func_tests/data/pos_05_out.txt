@@ -1,0 +1,8 @@
+notebook
+maleskine
+20
+100
+book
+Ilf&Petrov
+100
+200

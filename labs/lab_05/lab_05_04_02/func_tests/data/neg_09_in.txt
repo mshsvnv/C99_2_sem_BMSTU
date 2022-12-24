@@ -1,0 +1,3 @@
+pen pilot 10 20
+pencil kohinor 50 50
+notebook maleskine 20 100
